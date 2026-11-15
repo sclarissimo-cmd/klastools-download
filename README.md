@@ -31,10 +31,12 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Stemmen** | Leerlingen stemmen met hun gsm, tablet of Chromebook (QR-code), of je telt handen. Meerkeuze, ja/nee, duim, schaal, woordwolk. | ja (behalve handen tellen) |
 | **Getalbeelden** | Eén of twee eierdozen met bollen in vier kleuren: getallen tot 10, splitsen en de brug over 10. | nee |
 | **Honderdveld** | 10 × 10 met bollen in vier kleuren, een hele rij in één klik, getallen verbergen of los tonen. | nee |
+| **Breuken** | Chocoladerepen of taarten in gelijke stukken, in vier kleuren. Noemer kiezen (ook per reep, om 1/2 en 2/4 te vergelijken); breuk, kommagetal en procent los tonen. | nee |
+| **Klok** | Kloklezen: wijzerklok en digitale klok samen, wijzers slepen of de tijd intikken, de tijd in Vlaamse woorden ("vijf voor half vier"), hulp voor/over en 24 uur. | nee |
 
 ## Privacy
 
-Geen namen, accounts of e-mailadressen. Getalbeelden en Honderdveld sturen niets over het internet.
+Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken en Klok sturen niets over het internet.
 Stemmen stuurt anonieme stemmen via een publieke berichtendienst (HiveMQ); er wordt niets bewaard behalve
 de laatste vraag van een klascode.
 

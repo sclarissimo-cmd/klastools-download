@@ -8,6 +8,8 @@ Geen account, geen reclame.
 **[Klastools-voor-OpenBoard-setup.exe](https://github.com/sclarissimo-cmd/klastools-download/releases/latest/download/Klastools-voor-OpenBoard-setup.exe)**
 (altijd de nieuwste versie, voor Windows)
 
+**Geen OpenBoard?** Alle tools werken ook gewoon in de browser, op elk digibord: **[educatief.claris.be](https://educatief.claris.be)**
+
 ## Installeren
 
 1. Sluit OpenBoard.
@@ -34,10 +36,11 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Breuken** | Chocoladerepen of taarten in gelijke stukken, in vier kleuren. Noemer kiezen (ook per reep, om 1/2 en 2/4 te vergelijken); breuk, kommagetal en procent los tonen. | nee |
 | **Klok** | Kloklezen: wijzerklok en digitale klok samen, wijzers slepen of de tijd intikken, de tijd in Vlaamse woorden ("vijf voor half vier"), hulp voor/over en 24 uur. | nee |
 | **Timer** | Aftellen in uren, minuten en seconden, digitaal of als zandloper; geluid aan of uit (bel, schoolbel of ding-dong) als de tijd om is. Ook een stopwatch. | nee |
+| **Geld** | Geldbordje met euromunten en -biljetten: leggen en tellen, een bedrag leggen (met zo weinig mogelijk stukken) en wisselgeld teruggeven; tot € 10, tot € 100 of met centen. | nee |
 
 ## Privacy
 
-Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok en Timer sturen niets over het internet.
+Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok, Timer en Geld sturen niets over het internet.
 Stemmen stuurt anonieme stemmen via een publieke berichtendienst (HiveMQ); er wordt niets bewaard behalve
 de laatste vraag van een klascode.
 

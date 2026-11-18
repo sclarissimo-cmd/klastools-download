@@ -37,10 +37,11 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Klok** | Kloklezen: wijzerklok en digitale klok samen, wijzers slepen of de tijd intikken, de tijd in Vlaamse woorden ("vijf voor half vier"), hulp voor/over en 24 uur. | nee |
 | **Timer** | Aftellen in uren, minuten en seconden, digitaal of als zandloper; geluid aan of uit (bel, schoolbel of ding-dong) als de tijd om is. Ook een stopwatch. | nee |
 | **Geld** | Geldbordje met euromunten en -biljetten: leggen en tellen, een bedrag leggen (met zo weinig mogelijk stukken) en wisselgeld teruggeven; tot € 10, tot € 100 of met centen. | nee |
+| **Geluidsmeter** | Verkeerslicht dat via de microfoon toont hoe luid de klas is (groen, oranje, rood). Jij stelt de grens in; met signaaltje en teller. Heeft een microfoon nodig. | nee |
 
 ## Privacy
 
-Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok, Timer en Geld sturen niets over het internet.
+Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok, Timer, Geld en Geluidsmeter sturen niets over het internet. De Geluidsmeter meet alleen hoe luid het is: er wordt niets opgenomen of bewaard.
 Stemmen stuurt anonieme stemmen via een publieke berichtendienst (HiveMQ); er wordt niets bewaard behalve
 de laatste vraag van een klascode.
 

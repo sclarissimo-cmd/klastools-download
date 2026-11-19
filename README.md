@@ -39,10 +39,11 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Geld** | Geldbordje met euromunten en -biljetten: leggen en tellen, een bedrag leggen (met zo weinig mogelijk stukken) en wisselgeld teruggeven; tot € 10, tot € 100 of met centen. | nee |
 | **Geluidsmeter** | Verkeerslicht dat via de microfoon toont hoe luid de klas is (groen, oranje, rood). Jij stelt de grens in; met signaaltje en teller. Heeft een microfoon nodig. | nee |
 | **Letterbord** | Klanken en letters samen leggen tot woorden voor aanvankelijk lezen: hakken en plakken, klinkers en medeklinkers in kleur, het woord eronder in Vlaams handschrift, drukletters of getypt. | nee |
+| **Splitsmachine** | Getallen tot 10 of tot 20 splitsen met bolletjes of cijfers, stap voor stap of automatisch. Een deel verstoppen en een splitshuis dat zich vult; kleur van de bolletjes instelbaar. | nee |
 
 ## Privacy
 
-Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok, Timer, Geld, Geluidsmeter en Letterbord sturen niets over het internet. De Geluidsmeter meet alleen hoe luid het is: er wordt niets opgenomen of bewaard.
+Geen namen, accounts of e-mailadressen. Getalbeelden, Honderdveld, Breuken, Klok, Timer, Geld, Geluidsmeter, Letterbord en Splitsmachine sturen niets over het internet. De Geluidsmeter meet alleen hoe luid het is: er wordt niets opgenomen of bewaard.
 Stemmen stuurt anonieme stemmen via een publieke berichtendienst (HiveMQ); er wordt niets bewaard behalve
 de laatste vraag van een klascode.
 

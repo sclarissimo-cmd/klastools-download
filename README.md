@@ -34,12 +34,13 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Getalbeelden** | Eén of twee eierdozen met bollen in vier kleuren: getallen tot 10, splitsen en de brug over 10. | nee |
 | **Honderdveld** | 10 × 10 met bollen in vier kleuren, een hele rij in één klik, getallen verbergen of los tonen. | nee |
 | **Breuken** | Chocoladerepen of taarten in gelijke stukken, in vier kleuren. Noemer kiezen (ook per reep, om 1/2 en 2/4 te vergelijken); breuk, kommagetal en procent los tonen. | nee |
-| **Klok** | Kloklezen: wijzerklok en digitale klok samen, wijzers slepen of de tijd intikken, de tijd in Vlaamse woorden ("vijf voor half vier"), hulp voor/over en 24 uur. | nee |
+| **Klok** | Kloklezen: wijzerklok en digitale klok samen, wijzers slepen of de tijd intikken, de tijd in Vlaamse woorden ("kwart over drie", "vijfentwintig voor vier"), hulp voor/over en 24 uur. | nee |
 | **Timer** | Aftellen in uren, minuten en seconden, digitaal of als zandloper; geluid aan of uit (bel, schoolbel of ding-dong) als de tijd om is. Ook een stopwatch. | nee |
 | **Geld** | Geldbordje met euromunten en -biljetten: leggen en tellen, een bedrag leggen (met zo weinig mogelijk stukken) en wisselgeld teruggeven; tot € 10, tot € 100 of met centen. | nee |
 | **Geluidsmeter** | Verkeerslicht dat via de microfoon toont hoe luid de klas is (groen, oranje, rood). Jij stelt de grens in; met signaaltje en teller. Heeft een microfoon nodig. | nee |
 | **Letterbord** | Klanken en letters samen leggen tot woorden voor aanvankelijk lezen: hakken en plakken, klinkers en medeklinkers in kleur, het woord eronder in Vlaams handschrift, drukletters of getypt. | nee |
 | **Splitsmachine** | Getallen tot 10 of tot 20 splitsen met bolletjes of cijfers, stap voor stap of automatisch. Een deel verstoppen en een splitshuis dat zich vult; kleur van de bolletjes instelbaar. | nee |
+| **Groepjesmaker** | De klas in groepjes verdelen met voornamen of klasnummers: kies hoeveel kinderen per groepje, automatisch of zelf verdelen, daarna leerlingen verschuiven of afwezig zetten. De namen blijven in de les, op je eigen computer. | nee |
 
 ## Privacy
 

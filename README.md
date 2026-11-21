@@ -42,6 +42,7 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Splitsmachine** | Getallen tot 10 of tot 20 splitsen met bolletjes of cijfers, stap voor stap of automatisch. Een deel verstoppen en een splitshuis dat zich vult; kleur van de bolletjes instelbaar. | nee |
 | **Groepjesmaker** | De klas in groepjes verdelen met voornamen of klasnummers: kies hoeveel kinderen per groepje, automatisch of zelf verdelen, daarna leerlingen verschuiven of afwezig zetten. De namen blijven in de les, op je eigen computer. | nee |
 | **Getalkaarten** | Kaarten voor duizendtallen, honderdtallen, tientallen en eenheden op elkaar leggen tot één getal (9000 + 800 + 40 + 5 = 9845), of vrij slepen. Willekeurig of zelf gekozen getal, tot 100, 1 000 of 10 000. | nee |
+| **Kaart van België** | De provincies in kleur, de provinciehoofdsteden en 16 rivieren. Tik op een bolletje, sterretje of rivier om de naam te tonen, of toon alle namen; ook als blinde kaart. Kaartgegevens: Statbel via geoBoundaries en © OpenStreetMap-bijdragers (ODbL). | nee |
 
 ## Privacy
 

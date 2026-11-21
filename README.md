@@ -41,6 +41,7 @@ Voor ICT-verantwoordelijken: stil installeren met `/VERYSILENT /SUPPRESSMSGBOXES
 | **Letterbord** | Klanken en letters samen leggen tot woorden voor aanvankelijk lezen: hakken en plakken, klinkers en medeklinkers in kleur, het woord eronder in Vlaams handschrift, drukletters of getypt. | nee |
 | **Splitsmachine** | Getallen tot 10 of tot 20 splitsen met bolletjes of cijfers, stap voor stap of automatisch. Een deel verstoppen en een splitshuis dat zich vult; kleur van de bolletjes instelbaar. | nee |
 | **Groepjesmaker** | De klas in groepjes verdelen met voornamen of klasnummers: kies hoeveel kinderen per groepje, automatisch of zelf verdelen, daarna leerlingen verschuiven of afwezig zetten. De namen blijven in de les, op je eigen computer. | nee |
+| **Getalkaarten** | Kaarten voor duizendtallen, honderdtallen, tientallen en eenheden op elkaar leggen tot één getal (9000 + 800 + 40 + 5 = 9845), of vrij slepen. Willekeurig of zelf gekozen getal, tot 100, 1 000 of 10 000. | nee |
 
 ## Privacy
 
